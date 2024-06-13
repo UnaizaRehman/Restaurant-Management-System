@@ -1,0 +1,1 @@
+Restaurant Management System developed with C++ practcing different concepts of Object Oriented Programming like encapsultaion,inheritance and abstraction to develop an efficiant billing mechanism for billing,salary calculations and profit calculations.
